@@ -1,0 +1,3 @@
+C:\projetocsharp\Diocarrefour\Diocarrefour\obj\Release\netcoreapp3.1\Diocarrefour.AssemblyInfoInputs.cache
+C:\projetocsharp\Diocarrefour\Diocarrefour\obj\Release\netcoreapp3.1\Diocarrefour.AssemblyInfo.cs
+C:\projetocsharp\Diocarrefour\Diocarrefour\obj\Release\netcoreapp3.1\Diocarrefour.csproj.CoreCompileInputs.cache
